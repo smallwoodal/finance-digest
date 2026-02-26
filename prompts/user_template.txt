@@ -1,0 +1,31 @@
+## My interests and coverage lens
+
+{INTERESTS_YAML}
+
+---
+
+## Article to assess
+
+**Title:** {ARTICLE_TITLE}
+**Author:** {ARTICLE_AUTHOR}
+**Source:** {ARTICLE_SOURCE}
+**Published:** {ARTICLE_PUBLISHED}
+**URL:** {ARTICLE_URL}
+
+### Article text
+
+{ARTICLE_TEXT}
+
+---
+
+## Instructions
+
+1. **Read around first:** Use the web_search tool (up to 2 searches) to understand how this article's core topic or thesis is covered in mainstream financial media and sell-side research. Good search queries: the article's main claim or thesis, the key company/macro topic + "consensus" or "outlook". Use the results only to calibrate differentiation — do NOT copy them.
+
+2. **Produce the JSON summary** per your system instructions, incorporating what you learned from searching.
+
+3. **Assess relevance** specifically against the interests listed above, not generic financial interest.
+
+4. If web_search fails or is unavailable: set `differentiation_confidence` to `"Low"` and note the limitation in `differentiation_vs_consensus`.
+
+Return only valid JSON. No other text.

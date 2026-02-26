@@ -1,0 +1,76 @@
+feeds:
+  - name: "Citrini Research"
+    url: "https://www.citriniresearch.com/"
+    rss_url: "https://www.citriniresearch.com/feed"
+
+  - name: "SemiAnalysis (Substack)"
+    url: "https://newsletter.semianalysis.com/"
+    rss_url: "https://newsletter.semianalysis.com/feed"
+
+  - name: "SemiAnalysis (site feed)"
+    url: "https://semianalysis.com/"
+    rss_url: "https://semianalysis.com/feed/"
+
+  - name: "Cassandra Unchained (Michael Burry)"
+    url: "https://michaeljburry.substack.com/"
+    rss_url: "https://michaeljburry.substack.com/feed"
+
+  - name: "The Bear Cave"
+    url: "https://thebearcave.substack.com/"
+    rss_url: "https://thebearcave.substack.com/feed"
+
+  - name: "Net Interest"
+    url: "https://www.netinterest.co/"
+    rss_url: "https://www.netinterest.co/feed"
+
+  - name: "Kyla's Newsletter"
+    url: "https://kyla.substack.com/"
+    rss_url: "https://kyla.substack.com/feed"
+
+  - name: "Stay-At-Home Macro (SAHM)"
+    url: "https://stayathomemacro.substack.com/"
+    rss_url: "https://stayathomemacro.substack.com/feed"
+
+  - name: "The MacroTourist"
+    url: "https://posts.themacrotourist.com/"
+    rss_url: "https://posts.themacrotourist.com/feed"
+
+  - name: "Fabricated Knowledge"
+    url: "https://www.fabricatedknowledge.com/"
+    rss_url: "https://www.fabricatedknowledge.com/feed"
+
+  - name: "A Wealth of Common Sense"
+    url: "https://awealthofcommonsense.com/"
+    rss_url: "https://awealthofcommonsense.com/feed/"
+
+  - name: "The Irrelevant Investor (Beehiiv RSS)"
+    url: "https://www.theirrelevantinvestor.com/"
+    rss_url: "https://rss.beehiiv.com/feeds/BJES4OT2HF.xml"
+
+  - name: "Commodity Context"
+    url: "https://www.commoditycontext.com/"
+    rss_url: "https://www.commoditycontext.com/feed"
+
+  - name: "Statecraft"
+    url: "https://www.statecraft.pub/"
+    rss_url: "https://www.statecraft.pub/feed"
+
+  - name: "Apricitas Economics"
+    url: "https://www.apricitas.io/"
+    rss_url: "https://www.apricitas.io/feed"
+
+  - name: "While Stocks Last"
+    url: "https://whilestockslast.substack.com/"
+    rss_url: "https://whilestockslast.substack.com/feed"
+
+  - name: "Capital Wars"
+    url: "https://capitalwars.substack.com/"
+    rss_url: "https://capitalwars.substack.com/feed"
+
+  - name: "The Sleepwell Strategy"
+    url: "https://sleepwell.substack.com/"
+    rss_url: "https://sleepwell.substack.com/feed"
+
+  - name: "Behind the Balance Sheet"
+    url: "https://behindthebalancesheet.substack.com/"
+    rss_url: "https://behindthebalancesheet.substack.com/feed"

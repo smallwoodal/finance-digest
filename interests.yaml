@@ -1,0 +1,14 @@
+profile:
+  role: "Hedge fund analyst"
+  style: "factual, high-signal, opinionated about what matters, not promotional"
+  interests:
+    topics:
+      - "AI applications in finance"
+      - "UK mid-caps"
+      - "European equities"
+      - "Banks and financials"
+      - "Market structure"
+      - "Alternative data"
+      - "Semis / compute economics"
+    regions: ["UK", "Europe", "US"]
+    avoid: ["generic personal finance", "motivational content"]
