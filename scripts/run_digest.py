@@ -15,6 +15,7 @@ Environment variables:
     ANTHROPIC_MODEL         Optional. Default: claude-sonnet-4-6
     LOOKBACK_HOURS          Optional. Hours to look back for new articles. Default: 24
     WEB_SEARCH_TOOL_TYPE    Optional. Anthropic tool type. Default: web_search_20250305
+    SLACK_WEBHOOK_URL       Optional. If set, posts a condensed digest to Slack.
 """
 
 import os
@@ -70,6 +71,7 @@ DIGESTS_DIR.mkdir(parents=True, exist_ok=True)
 # ── Constants (overridable via env) ───────────────────────────────────────────
 LOOKBACK_HOURS       = int(os.environ.get("LOOKBACK_HOURS", "24"))
 WEB_SEARCH_TOOL_TYPE = os.environ.get("WEB_SEARCH_TOOL_TYPE", "web_search_20250305")
+SLACK_WEBHOOK_URL    = os.environ.get("SLACK_WEBHOOK_URL", "")
 MAX_ARTICLE_CHARS    = 10_000   # chars sent to Claude per article
 REQUEST_TIMEOUT      = 20       # seconds for outbound HTTP
 INTER_ARTICLE_SLEEP  = 1.5      # polite pacing (seconds) between article API calls
@@ -486,6 +488,97 @@ def render_digest(
     return "\n".join(lines)
 
 
+# ── Slack notification ─────────────────────────────────────────────────────────
+
+def send_to_slack(
+    webhook_url: str,
+    articles_by_source: dict,
+    date_str: str,
+    errors: list[str],
+) -> None:
+    """Post a condensed digest to a Slack incoming webhook using Block Kit."""
+    total = sum(len(v) for v in articles_by_source.values())
+
+    blocks: list[dict] = [
+        {
+            "type": "header",
+            "text": {"type": "plain_text", "text": f"📚 Finance Digest — {date_str}"},
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": (
+                    f"*{total} new article{'s' if total != 1 else ''}* in the last 24h"
+                    if total
+                    else "_No new articles in the last 24 hours._"
+                ),
+            },
+        },
+        {"type": "divider"},
+    ]
+
+    for source_name, items in articles_by_source.items():
+        for item in items:
+            title   = item.get("title", "(no title)")
+            link    = item.get("link", "")
+            author  = item.get("author", "")
+            summary = item.get("summary", {})
+
+            thesis    = str(summary.get("thesis", "")).strip()[:300]
+            verdict   = str(summary.get("verdict", "")).strip()[:200]
+            relevance = summary.get("relevance", "")
+            diff_conf = summary.get("differentiation_confidence", "")
+
+            title_link = f"<{link}|{title}>" if link else title
+            byline = f" — _{author}_" if author else ""
+            header_line = f"*{title_link}*{byline}  `{source_name}`"
+
+            lines = [header_line]
+            if thesis:
+                lines.append(f"*Thesis:* {thesis}")
+            if verdict:
+                lines.append(f"→ {verdict}")
+            meta: list[str] = []
+            if relevance:
+                meta.append(f"Relevance: {relevance}")
+            if diff_conf:
+                meta.append(f"Diff confidence: {diff_conf}")
+            if meta:
+                lines.append("  ".join(meta))
+
+            blocks.append({
+                "type": "section",
+                "text": {"type": "mrkdwn", "text": "\n".join(lines)[:3000]},
+            })
+            blocks.append({"type": "divider"})
+
+    if errors:
+        err_lines = "\n".join(f"• {e[:200]}" for e in errors[:5])
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*⚠️ Errors:*\n{err_lines}"},
+        })
+
+    # Slack allows max 50 blocks per request — chunk if needed
+    MAX_BLOCKS = 50
+    for i in range(0, max(len(blocks), 1), MAX_BLOCKS):
+        chunk = blocks[i : i + MAX_BLOCKS]
+        try:
+            resp = requests.post(
+                webhook_url,
+                json={"blocks": chunk},
+                timeout=REQUEST_TIMEOUT,
+                headers={"Content-Type": "application/json"},
+            )
+            resp.raise_for_status()
+            logger.info(f"Slack notification sent (block chunk {i // MAX_BLOCKS + 1})")
+        except Exception as exc:
+            logger.error(f"Slack notification failed: {exc}")
+        if i + MAX_BLOCKS < len(blocks):
+            time.sleep(1)
+
+
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def main() -> None:
@@ -619,6 +712,11 @@ def main() -> None:
         logger.warning("Errors encountered (also listed in digest):")
         for err in errors:
             logger.warning(f"  {err}")
+
+    if SLACK_WEBHOOK_URL:
+        send_to_slack(SLACK_WEBHOOK_URL, articles_by_source, date_str, errors)
+    else:
+        logger.info("SLACK_WEBHOOK_URL not set — skipping Slack notification")
 
 
 if __name__ == "__main__":

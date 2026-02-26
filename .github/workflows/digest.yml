@@ -41,6 +41,7 @@ jobs:
           # ANTHROPIC_MODEL can be set as a repository variable (Settings → Variables → Actions).
           # Falls back to claude-sonnet-4-6 if not set.
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-sonnet-4-6' }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python scripts/run_digest.py
 
       - name: Commit and push digest
