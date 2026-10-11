@@ -1,77 +1,8 @@
-# 📚 Your reading list — 3 new posts (last 24h)
+# 📚 Your reading list — 0 new posts (last 24h)
 
-Generated: 2026-10-10T13:09:46Z
+Generated: 2026-10-11T13:39:30Z
 
-## Net Interest
-
-- ***Marc Rubinstein*** — When Saturday Comes (2026-10-10)
-  https://www.netinterest.co/p/when-saturday-comes
-
-**Thesis:** Football clubs are transforming into a legitimate institutional asset class, with private equity rapidly displacing billionaire and sovereign-wealth owners — but the article uses Marc Rubinstein's personal Liverpool FC ownership history as a lens to question whether the economics actually justify current valuations.
-**Key data:**
-  - Rubinstein bought a single Liverpool FC share in 1996 for £1,950 (plus 2.2% commission)
-  - Liverpool equity value at time of Rubinstein's sale: ~£125 million
-  - Hicks & Gillett acquired Liverpool in 2007 for £174 million (£219 million including £45 million debt)
-  - FSG bought Liverpool in 2010 for £300 million
-  - FSG sold 38% stake to 1892 Holdings in August 2026 at a valuation of ~£5.5 billion ($7.3 billion)
-  - In 2010, every Forbes 400 member could have bought Liverpool for less than half their net worth; today only 88 of them could
-  - 20% of the 92 clubs across Premier League, EFL Championship, and EFL Leagues One and Two have private capital in their shareholding, up from 8% in 2010
-  - 40% of Premier League clubs have private capital represented
-  - Apollo's Al Tylis estimates the total sports market (leagues, venues, media, merchandise, fitness, live events) at $2.5 trillion
-  - KKR puts the addressable market at $650 billion and estimates private capital penetration at just 2%
-  - Clearlake Capital took full control of Chelsea at a valuation of £5 billion ($6.7 billion)
-  - Liverpool appeared in nine cup finals in the past ten years
-  - 1892 Holdings consortium includes Jeff Bezos (via K5 Sports), Eduardo Saverin (EE Capital), Amit Bhatia, and Mittal Family Trusts
-**Names/tickers:** Liverpool FC, Marc Rubinstein, David Moores, Tom Hicks, George Gillett, Fenway Sports Group (FSG), 1892 Holdings, Jeff Bezos, Eduardo Saverin, Amit Bhatia, Mittal Family, KKR, Arctos Partners, Apollo, Sixth Street, TPG, Avenue Capital, Clearlake Capital, Chelsea FC, Manchester City, Silver Lake, Manchester United
-**Differentiation vs consensus:** The consensus narrative — well-documented across PitchBook, Sportico, and multiple 2026 analyses — is straightforwardly bullish: sports is a scarce, undercapitalised asset class with growing institutional tailwinds, and the Liverpool deal at $7bn+ is a benchmark validation. What Rubinstein adds that is at least partially non-consensus: (1) a first-person historical micro-case study on Liverpool share liquidity and valuation trajectory from 1996 to present, giving an unusually long-run valuation lens rarely seen in institutional coverage; (2) the observation that even oligarchs are now priced out — only 88 Forbes 400 members could afford Liverpool today vs. all 400 in 2010 — which is a pointed and concrete framing of valuation compression from a buyer-universe perspective; (3) the deliberate question posed by David Moores' own warning that football 'as an investment' would come unstuck, directly interrogating whether PE can succeed where passionate owners with synergies could not. The article teases — but does not fully resolve — whether the PE business case is real, which is the key analytical gap. Differentiation is moderate: the framing and historical data are distinctive, but the conclusion (PE is moving in, sports is a new asset class) is itself consensus. The article's value is more in the quality of the historical evidence and the open-ended sceptical question than in a decisive contrarian call.
-**Differentiation confidence:** Med
-**Relevance:** Low — The article covers sports asset economics and PE investment in football clubs — neither UK mid-caps, European equities, banks, AI in finance, semis, market structure, nor alternative data fall within its scope, making it peripheral to the user's stated coverage interests.
-→ Skip unless you are actively researching sports as an alternative asset class or PE deal flow into UK/European football; the historical Liverpool valuation arc is genuinely interesting colour but the article's core thesis is now mainstream consensus.
-
-## A Wealth of Common Sense
-
-- ***Ben Carlson*** — The Winners & Losers of Higher Interest Rates (2026-10-09)
-  https://awealthofcommonsense.com/2026/10/the-winners-losers-of-higher-interest-rates/
-
-**Thesis:** Higher interest rates create clear winners (retirees, cash-rich companies, savers, those with locked-in low-rate debt) and more numerous losers (homebuyers, renters, small businesses, government debt), and on net the damage outweighs the benefits — with a structural 'higher rates, higher rent doom loop' risking persistent inflation.
-**Key data:**
-  - T-bill yields above 4%; high-quality bond yields above 5%; other bond segments yielding 6-7%
-  - Mortgage rates at 7-7.5%
-  - Existing home sales below 4 million annually with a population of ~345 million, vs. 5+ million sales at the turn of the century with a population of 280 million
-  - National average auto loan rate above 7%; vehicle costs up ~30% this decade
-  - Average new car payment approaching $800; over 20% of new car loans carry monthly payments of $1,000+; 25% of new loans extended to 84 months
-  - Owners' equivalent rent makes up roughly a quarter of the CPI basket
-  - Large corporates locked in low fixed-rate debt, insulating corporate interest costs; small caps and small businesses primarily on floating rate
-**Names/tickers:** Ben Carlson, Michael Cembalest, Torsten Slok
-**Differentiation vs consensus:** The winners/losers framing of higher rates is entirely consensus — JPMorgan, UBS, GoBankingRates, and countless financial media outlets have published near-identical frameworks. The article's one potentially useful non-consensus element is the 'higher rates, higher rent doom loop' (citing Torsten Slok): higher rates suppress multifamily construction, which eventually re-accelerates rents, which feeds back into CPI via OER (25% of the basket), which keeps rates elevated — a reflexive structural dynamic that goes beyond the standard 'rates hurt housing' narrative. However, this point is attributed to Slok and is not original to the author. The Cembalest chart on corporate net interest costs (large caps vs. small caps) is a useful empirical distinction but also widely discussed in sell-side research. Overall, the article is a well-written synthesis of consensus views with no proprietary data, no original analysis, and no contrarian thesis.
-**Differentiation confidence:** Low
-**Relevance:** Low — This is a US-focused, retail-investor-oriented personal finance piece with no coverage of UK mid-caps, European equities, banks, AI, semis, market structure, or alternative data — all of the user's stated interests.
-→ Skip unless you need a clean lay-audience explainer on the rates transmission mechanism; offers nothing differentiated or actionable for a hedge fund analyst.
-
-## Commodity Context
-
-- ***Rory Johnston*** — Oil Context Weekly (W41) (2026-10-09)
-  https://www.commoditycontext.com/p/ocw41w26
-
-**Thesis:** Brent crude rose ~$2/bbl to end above $104/bbl amid a volatile week driven by Hormuz shipping attack escalation, SPR diplomacy, and pre-midterm geopolitical noise; the key structural signal is a widening Brent/Dubai vs. WTI timespread divergence, with WTI's relative weakness attributable to skyrocketing tanker rates and idiosyncratic SPR dynamics rather than fundamentals.
-**Key data:**
-  - Brent ended above $104/bbl, up ~$2/bbl on the week
-  - Nearly $10/bbl intra-week trading range for Brent
-  - WTI prompt backwardation at lowest level in two months
-  - Brent-WTI spread widened to ~$11.14 (vs. ~$4.80 a month ago per external data)
-  - ARA European crude stocks pulled back sharply, erasing recent build and returning to bottom of seasonal range
-  - Refined product markets at fresh high seasonal levels
-  - Speculators were modest net sellers of crude; both long and short positions declined (gross washout)
-  - Iran receiving alleged 'consideration' (payment) for allowing some oil flows through Hormuz in Aug–Sep
-  - Hormuz exports at 8.5mb/d for week ended Wed, ~40% below pre-war normal (Kpler)
-  - UK Maritime Trade Operations reported 9 attacks in Hormuz in first week of October alone, half September's full-month total
-  - White House dropped sanctions on Russian diesel amid acute diesel shortage
-  - White House expanding allowable use of red dye diesel (normally off-road only)
-**Names/tickers:** Rory Johnston, Michelle Brouhard, Kpler, Center for New American Security, CBC, Wall Street Journal, Trump
-**Differentiation vs consensus:** Three differentiated elements stand out vs. mainstream coverage: (1) The WTI/Brent timespread divergence is framed specifically as tanker-rate-driven and SPR-idiosyncratic rather than a fundamental demand signal — mainstream media focuses on the Brent-WTI price spread but not the timespread divergence mechanism. (2) The allegation — surfaced via Johnston's podcast guest Michelle Brouhard of Kpler — that Iran was receiving covert 'consideration' (payment) in exchange for allowing elevated oil flows through Hormuz in Aug–Sep is a non-consensus, proprietary-sourced claim not present in EIA, Reuters, or CNBC coverage reviewed. (3) The gross positioning washout (both longs AND shorts reduced simultaneously) signals hedge fund disengagement from directional oil calls, which is more nuanced than the net-position figure reported elsewhere. The Russia diesel sanctions drop and red dye diesel expansion are reported but not widely contextualized as signs of White House desperation. Differentiation confidence is medium because the article is paywalled beyond the summary, limiting verification of supporting data.
-**Differentiation confidence:** Med
-**Relevance:** Low — This article covers crude oil market mechanics, geopolitical supply disruption, and energy commodities — none of which fall within the user's stated coverage interests (UK mid-caps, European equities, banks/financials, AI in finance, semis/compute, alternative data, market structure).
-→ Skip unless the fund has direct energy commodity exposure or is tracking Middle East geopolitical risk as a macro overlay — the Iran 'consideration' payment allegation and WTI timespread analysis are the only genuinely differentiated signals, but neither is relevant to the stated coverage mandate.
+_No new posts found in the last 24 hours._
 
 ## Errors
 
