@@ -1,46 +1,26 @@
-# 📚 Your reading list — 3 new posts (last 24h)
+# 📚 Your reading list — 1 new post (last 24h)
 
-Generated: 2026-10-14T12:34:04Z
+Generated: 2026-10-15T12:19:26Z
 
-## The MacroTourist
+## Commodity Context
 
-- ***Kevin Muir*** — M’tourist Private Feed Recap (2026-10-13)
-  https://posts.themacrotourist.com/p/mtourist-private-feed-recap-aba
+- ***Rory Johnston*** — OPEC+ Data Deck (October 2026) (2026-10-14)
+  https://www.commoditycontext.com/p/opec-data-deck-october-2026
 
-**Thesis:** Article content is inaccessible — the full text is behind a paywall and only a subscriber preview/stub is visible.
-**Names/tickers:** Kevin Muir
-**Differentiation vs consensus:** Cannot assess differentiation: the article body is fully gated for paid subscribers only. No thesis, data points, or arguments are available for analysis.
-**Differentiation confidence:** Low
-**Relevance:** Low — With no accessible content, it is impossible to determine whether this MacroTourist recap touches on any of the user's covered areas (UK mid-caps, European equities, banks, AI in finance, semis, market structure, alternative data).
-→ Skip unless you are already a paid MacroTourist subscriber — the article text is fully paywalled and no substantive content is available for evaluation.
-
-## A Wealth of Common Sense
-
-- ***Ben Carlson*** — Is It Time to Rebalance Your Portfolio? (2026-10-13)
-  https://awealthofcommonsense.com/2026/10/is-it-time-to-rebalance-your-portfolio/
-
-**Thesis:** With bond yields now above 5% for the first time in ~20 years, investors who drifted toward equity-heavy allocations during the low-rate era should rebalance back toward their target weights, as bonds can once again contribute meaningfully to portfolio returns.
+**Thesis:** Rory Johnston's October 2026 OPEC+ Data Deck documents that Middle Eastern crude production recovered sharply in September as Hormuz flows hit a wartime high, but a subsequent spike in Iranian shipping attacks has reversed that progress, pushing current estimated shut-ins back up to 4–6 MMbpd and bringing cumulative wartime supply losses above 2.3 billion barrels.
 **Key data:**
-  - Vanguard LifeStrategy 60/40 fund up ~8% per year in the 2020s
-  - High quality bond yields now above 5% for first time in almost 20 years
-  - A hypothetical 60/40 portfolio left untouched since start of 2020s is now approximately 77/23 equity/bond
-**Names/tickers:** Vanguard, Ben Carlson
-**Differentiation vs consensus:** This article is entirely consensus-aligned personal finance content. The argument that 60/40 'didn't die' and that investors should rebalance back toward bonds given higher yields is a widely repeated mainstream narrative covered extensively by Vanguard, BlackRock, Morningstar, and the broader financial press. There is no proprietary data, no contrarian angle, no novel framework, and no company-specific or market-structure insight. The piece is essentially a retail investor blog post recycling well-established rebalancing principles.
-**Differentiation confidence:** Low
-**Relevance:** Low — This is a generic personal finance / retail investor rebalancing piece with no coverage of UK mid-caps, European equities, banks, AI applications in finance, semis, alternative data, or market structure — all of which are the analyst's stated focus areas.
-→ Skip unless you need a refresher on basic 60/40 rebalancing arguments for a client communication context.
-
-## The Irrelevant Investor (Beehiiv RSS)
-
-- ***Michael Batnick*** — Animal Spirits: Are Higher Rates Worse Than ZIRP? (2026-10-14)
-  https://www.theirrelevantinvestor.com/p/animal-spirits-are-higher-rates-worse-than-zirp
-
-**Thesis:** This is a podcast episode (Animal Spirits) with a curated list of links and discussion topics — there is no single coherent article thesis. The episode title references whether higher interest rates are worse than ZIRP, but no developed argument is present in the text.
-**Names/tickers:** Michael Batnick, Ben Carlson, J.P. Morgan, ProShares, Janus Henderson, Paramount, Disney, Kalshi, Polymarket
-**Differentiation vs consensus:** This is a podcast show-notes page, not a substantive financial article. There is no original analysis, proprietary data, or non-consensus argument present in the extractable text. The linked topics (higher rates, retail options trading, tariff pass-through, Paramount debt) are all widely covered in mainstream financial media. No differentiated thesis can be assessed. Web search was not performed as the content does not warrant calibration — the page contains no analyzable argument.
-**Differentiation confidence:** Low
-**Relevance:** Low — This is a podcast index page with no substantive analysis relevant to the user's focus areas of UK mid-caps, European equities, AI in finance, semis, banks, market structure, or alternative data.
-→ Skip unless you are a regular Animal Spirits listener looking for episode show notes — there is no original analysis here worth a hedge fund analyst's time.
+  - Quota-participating OPEC+ crude production rose +966 kbpd in September per OPEC MOMR secondary source estimates
+  - Saudi Arabia and Iraq drove the bulk of September gains; Iraq recovered to 94% of prewar levels via aggressive cargo discounting
+  - Iranian crude output fell 99 kbpd m/m in September to below 2 MMbpd — first time since 2020
+  - US blockade has reduced Iranian upstream output to the level of domestic consumption
+  - Hormuz flows hit a wartime high in September, reducing export-implied shut-ins to ~2 MMbpd (ex-Iran) and ~4 MMbpd (incl. Iran)
+  - Following the recent spike in Iranian shipping attacks and Hormuz pullback, current shut-in estimate has risen to 4–6 MMbpd
+  - Total cumulative Middle Eastern oil supply losses since war began: >2.3 billion barrels as of early October 2026
+**Names/tickers:** Rory Johnston, Commodity Context, OPEC, Saudi Arabia, Iraq, Iran
+**Differentiation vs consensus:** Mainstream coverage (IEA, Reuters/Kpler, Goldman Sachs, CNBC as of late September/early October) had largely framed the September Hormuz recovery as a bullish supply normalisation story, with Gulf crude exports approaching or exceeding pre-war levels. Johnston's value-add is threefold: (1) he directly tracks the *reversal* of that September recovery in real time — the post-wartime-high pullback in Hormuz transits following renewed Iranian attacks — and updates shut-in estimates to 4–6 MMbpd accordingly, which is materially above the IEA's 11 September figure of ~10 MMbpd total and well above what sell-side was pricing in by late September; (2) he provides member-level granularity (Iraq's cargo discounting mechanics, Iran's upstream collapse to domestic-use-only levels) not surfaced in mainstream MOMR headlines; (3) the 2.3 billion barrel cumulative loss figure is a proprietary running tally not found in IEA or sell-side publications reviewed. Differentiation is highest on the real-time Hormuz reversal call and the Iran upstream-to-domestic-parity observation.
+**Differentiation confidence:** Med
+**Relevance:** Low — The article covers Middle East crude oil supply dynamics and OPEC+ compliance — outside the user's stated interest areas of UK mid-caps, European equities, banks/financials, AI in finance, market structure, alternative data, and semis/compute economics.
+→ Skip unless the fund has direct commodity/energy exposure or uses Middle East supply disruption as a macro input for European energy equities or inflation positioning.
 
 ## Errors
 
