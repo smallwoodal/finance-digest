@@ -1,92 +1,67 @@
-# 📚 Your reading list — 4 new posts (last 24h)
+# 📚 Your reading list — 3 new posts (last 24h)
 
-Generated: 2026-10-16T12:01:05Z
+Generated: 2026-10-17T11:16:40Z
 
-## SemiAnalysis (Substack)
+## Net Interest
 
-- ***Sherry Zhang*** — ASML Is Building a Hybrid Bonding Tool! (2026-10-15)
-  https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding
+- ***Marc Rubinstein*** — Me and My Agents (2026-10-16)
+  https://www.netinterest.co/p/me-and-my-agents
 
-**Thesis:** ASML is covertly developing a track-based die-to-wafer hybrid bonding tool — evidenced by 27 patent families, a third-party news report, and its own investor roadmap — which threatens Besi's dominance in D2W hybrid bonding at TSMC and Intel, compounded by SemiAnalysis's contrarian view that HBM adoption of D2W hybrid bonding will slip to 2029 or beyond.
+**Thesis:** A former hedge fund manager and bank analyst describes how he has built a four-agent AI workflow to process US bank earnings in near-real-time — parsing releases, tracking themes, modelling Q&A, and updating Excel models — arguing this tooling materially accelerates edge extraction during the most alpha-rich window of the calendar.
 **Key data:**
-  - ASML filed 27 bonding patent families between December 2022 and November 2024, most covering D2W hybrid bonding
-  - ASML's tool runs on a SuperTrak CONVEYANCE track system, a fundamental design departure from Besi's bond-head architecture
-  - D2W HB current throughput upper bound: ~1 wafer per hour in existing applications
-  - TSMC SoIC bonds at ~6um pitch today, targets 4.5um by ~2029
-  - AMD has shipped hybrid-bonded V-Cache since 2022
-  - ASML shipped its first back-end product (XT:260 i-line packaging scanner) in Q3 2025
-  - ASML announced joint 12-inch photomask initiatives with TSMC, Intel Foundry, and Samsung in September 2026
-  - SemiAnalysis view: HBM will not adopt D2W HB before 2029, if at all — versus market consensus of 2028 ramp
-  - Bernstein consensus: three of every four hybrid bonders shipped in 2028 expected to be Besi's
-  - UBS estimated HBM would be only ~10% of hybrid bonding tool demand in 2028 vs. ~50% consensus expectation
-  - BofA cut Besi to Neutral and nearly halved its price target following ASML threat reports
-  - Besi shares fell 3% on October 16, 2026 on SemiAnalysis report; had been worst Stoxx 600 performer in Q3 2026
-  - Besi cumulative hybrid bonding orders above 150 as of latest annual report; 18 customers
-  - Besi told investors it could ship more than 2,000 tools by 2030 in an optimistic scenario
-**Names/tickers:** ASML (ASML), BE Semiconductor Industries / Besi (BESI), TSMC (TSM), Intel Foundry, Samsung, AMD (AMD), Applied Materials (AMAT), Hanwha Semitech, Prodrive Technologies, VDL ETG, Sherry Zhang (author), SemiAnalysis, Bank of America / BofA, UBS, Bernstein
-**Differentiation vs consensus:** The article offers two layers of differentiation versus consensus. First, it is the primary source of the ASML D2W hybrid bonding tool revelation — derived from original patent analysis of 27 filings (not yet public post-Nov 2024), architectural deconstruction of the track-based design, and corroboration via The Elec report. No sell-side or mainstream media had independently surfaced this level of technical detail; BofA and Reuters reacted to SemiAnalysis, not vice versa. Second, and more importantly for trading, SemiAnalysis's call that HBM will not adopt D2W HB before 2029 — if at all — is explicitly contrarian: consensus (per UBS and TrendForce) had expected HBM to be ~50% of hybrid bonding tool demand by 2028, while SemiAnalysis aligns closer to UBS's bearish 10% view and goes further by pushing the timeline to 2029+. The article also identifies a specific architectural edge (track-based independent shuttle vs. bond-head pick-and-place) that could structurally disadvantage Besi on alignment accuracy and particle control — areas where ASML has proven lithography expertise. This is proprietary technical analysis not replicated elsewhere. Differentiation confidence is high because web search confirms the article was the catalyst for subsequent market moves and sell-side reactions, not a rehash of them.
-**Differentiation confidence:** High
-**Relevance:** High — Directly relevant to European equities (ASML, Besi are core European semis), semis/compute economics, and market structure in advanced packaging — all within the user's stated coverage interests.
-→ Worth reading in full if you have or are considering exposure to Besi (BESI) or ASML (ASML), or are tracking the advanced packaging / hybrid bonding supply chain; the patent-level technical analysis and the contrarian HBM-timing call are both actionable and not replicated in sell-side coverage.
-
-## The MacroTourist
-
-- ***Kevin Muir*** — M’tourist Private Feed Recap (2026-10-16)
-  https://posts.themacrotourist.com/p/mtourist-private-feed-recap-dc9
-
-**Thesis:** Article content is behind a paywall and not accessible — only the title and a brief subscriber prompt are visible. No thesis can be extracted.
-**Names/tickers:** Kevin Muir
-**Differentiation vs consensus:** Unable to assess differentiation: the article body is paywalled and contains no substantive content beyond a title ('M'tourist Private Feed Recap for Thursday, October 15th, 2026') and a subscription prompt. Web search was not conducted as there is no thesis or claim to search around.
-**Differentiation confidence:** Low
-**Relevance:** Low — No article content is available to assess relevance against the user's stated interests in UK mid-caps, European equities, banks, AI in finance, or semis/compute economics.
-→ Skip unless you are already a MacroTourist paid subscriber — the full content is paywalled and cannot be evaluated from the provided text.
+  - Earnings release dates make up just 1.6% of trading days but account for 15% of annual share-price variance
+  - JPMorgan alone furnished investors with 523 new data points in its Q3 release
+  - The six largest US banks collectively released over 250 pages of financial information and hosted over eight hours of calls in Q3 2026
+  - Bank filings can stretch to 75 pages per release
+  - Q3 2026 guidance broadly up, particularly on higher net interest income; equities trading and banking fees mostly strong; fixed income trading weaker; consumer spending and credit held up
+**Names/tickers:** Marc Rubinstein, Net Interest, JPMorgan, Mike Mayo, Wells Fargo Securities, Lansdowne Partners
+**Differentiation vs consensus:** The article's differentiation is methodological, not thematic. Mainstream coverage of Q3 2026 bank earnings (CNBC, KuCoin, BusinessWorld) focuses on headline profit beats/misses, AI financing exposure, and deposit risk from agentic AI — all widely discussed. Rubinstein's non-consensus contribution is a practitioner-level blueprint for deploying a bespoke multi-agent AI system (not off-the-shelf tools like AlphaSense) to compress earnings-season workflow: one agent does comparative analysis against historical filings and consensus previews, one tracks pre-specified thematic signals, one simulates the most probing analyst question (Mike Mayo's), and one writes directly to Excel. The 1.6%/15% earnings-variance statistic grounds the alpha rationale quantitatively. The paywalled portion — actual agent instructions and outputs — is the genuinely proprietary content. The framing that AI agents acting as a personal research team can replicate or exceed sell-side infrastructure is differentiated from generic AI-in-finance coverage, which focuses on enterprise deployment at banks rather than by investors analysing banks. Differentiation confidence is medium because the full article content (agent instructions, substantive earnings findings) is behind a paywall and could not be assessed.
+**Differentiation confidence:** Med
+**Relevance:** High — Directly addresses AI applications in financial analysis workflows and US/global bank earnings — two core interest areas — with practitioner-level specificity that is actionable for a hedge fund analyst running their own earnings process.
+→ Worth reading in full if you are actively trying to build or improve an AI-assisted earnings workflow for financials coverage — the paywalled agent instructions and outputs are the real payload; skip unless you have a paid subscription, as the free portion is largely scene-setting.
 
 ## A Wealth of Common Sense
 
-- ***Ben Carlson*** — Hedging the AI Trade (2026-10-15)
-  https://awealthofcommonsense.com/2026/10/hedging-the-ai-trade/
+- ***Ben Carlson*** — What’s the Right Level of Interest Rates For the Economy? (2026-10-16)
+  https://awealthofcommonsense.com/2026/10/whats-the-right-level-of-interest-rates-for-the-economy/
 
-**Thesis:** Index investors worried about AI-driven S&P 500 concentration should diversify into bonds, foreign developed markets (especially Europe), value/dividend/low-vol strategies, and non-market-cap-weighted funds — but completely abandoning mega-cap tech is itself a large active bet with its own regret risk.
+**Thesis:** There is no 'normal' level of interest rates, and policymakers have underestimated the damage caused by rapidly transitioning from ultra-low to high rates, particularly in housing, rather than the level of rates itself being the core problem.
 **Key data:**
-  - Top 10 S&P 500 stocks now ~40% of index market cap, up from 20-25% range since 1980
-  - Top 5 stocks worth same as bottom 434 S&P 500 stocks today, vs. bottom 225 ten years ago
-  - Top 10 S&P 500 stocks collectively worth more than $28 trillion
-  - Top 10 Nasdaq 100 stocks make up ~50% of that index
-  - Top 10 stocks account for 40% of market cap AND 40% of profits
-  - S&P 500, Mag 7, and S&P 493 all ended at roughly the same YTD return through end of September 2026
-  - Current S&P 500 concentration comparable to 1950s-1960s levels historically
-  - Concentration fell sharply during the 2000s 'lost decade' when market crashed twice
-**Names/tickers:** S&P 500, Nasdaq 100, Vanguard Europe ETF, S&P Dividend ETF, Vanguard Value ETF, Mag 7, Ben Carlson, Bill Sweet
-**Differentiation vs consensus:** The article's core arguments — that concentration is high, AI is 'one big trade,' diversify into value/international/bonds — are almost entirely consensus. JP Morgan, Goldman, CNBC, and numerous retail financial sites are all making identical points in 2026. The one mildly non-consensus note is the pushback on the diversification imperative itself: Carlson points out that through end of September 2026, the S&P 493 and Mag 7 ended in basically the same place YTD, meaning avoiding mega-cap tech has not been rewarded, and that 'completely moving away from the gigantic tech companies is also a big bet.' The profit-concentration parity point (top 10 = 40% of cap AND 40% of profits) is a standard bull-case rebuttal but not differentiated. No proprietary data, no unique framework, no contrarian conclusion. This is personal-finance-oriented content dressed in market-structure language.
-**Differentiation confidence:** High
-**Relevance:** Low — This is a retail-facing personal finance piece about index fund diversification — it contains no hedge-fund-relevant alpha, no proprietary data on AI capex, semis, European equities, or market structure, and its arguments are fully consensus.
-→ Skip unless you need a plain-English summary of the consensus case for diversifying S&P 500 concentration risk to share with a non-professional audience.
+  - S&P 500 has outperformed in the 2020s (with 4-5% rates) versus the 2010s (with near-zero rates)
+  - 10-year Treasury yield averaged more than 10% throughout the 1980s
+  - 30-year mortgage rates never went below 9% in the 1980s; 1990s average was above 8%
+  - Current 30-year mortgage rate cited at 7.5%
+  - Existing home sales in 2000: ~5 million/year; today: ~4 million/year
+  - US population in 2000: 280 million, 105 million households; today: 340 million people, 135 million households
+  - Existing home sales (population-adjusted) are lower than the bottom of the 2008-09 housing bust for three consecutive years
+  - Housing accounts for roughly 20% of US economic activity (John Burns data)
+**Names/tickers:** Edward Chancellor, Ben Carlson, John Burns, Michael (Animal Spirits co-host)
+**Differentiation vs consensus:** The article's core claim — that there is no 'normal' rate and that the *speed* of transition from ZIRP to high rates is more damaging than the rate level itself — is a mild departure from mainstream framing, which focuses on finding the right 'neutral rate' (consensus ~3–3.25%). However, the housing lock-in argument (homeowners anchored to 3% mortgages refusing to move) is well-trodden in financial media and not novel. The ZIRP critique and its failure to produce the predicted crises is also a common retrospective observation. The population-adjusted existing home sales chart is a moderately differentiated data presentation, but the underlying narrative is widely covered. Overall, this is a thoughtful retail-oriented synthesis, not a non-consensus analytical piece. Differentiation is low relative to sell-side or specialist research.
+**Differentiation confidence:** Low
+**Relevance:** Low — This is a general personal finance/macro commentary piece aimed at retail investors; it does not address UK mid-caps, European equities, AI, banks, market structure, alternative data, or semis — the user's stated coverage areas.
+→ Skip unless looking for accessible background on the US housing lock-in dynamic or historical rate context; adds no edge for a hedge fund analyst focused on UK/European equities, AI, or financials.
 
-## The Irrelevant Investor (Beehiiv RSS)
+## Commodity Context
 
-- ***Michael Batnick*** — The Compound and Friends: How OpenAI Could Cause a US Recession (2026-10-16)
-  https://www.theirrelevantinvestor.com/p/the-compound-and-friends-how-openai-could-cause-a-us-recession
+- ***Rory Johnston*** — Oil Context Weekly (W42) (2026-10-16)
+  https://www.commoditycontext.com/p/ocw42w26
 
-**Thesis:** The AI infrastructure build-out — anchored by OpenAI's ballooning cash burn and CoreWeave's aggressive debt-funded GPU expansion — is drawing in foreign capital and insurance money in a pattern resembling 2008 systemic risk, raising the prospect of a US recession if capex reverses or demand disappoints.
+**Thesis:** The oil market faces a multi-front supply shock — record Hormuz shipping attacks, renewed Saudi infrastructure damage rumours, and Russia refinery strikes — that drove Brent above $110/bbl; Johnston argues Friday's backwardation re-strengthening should be discounted because it coincided with a simultaneous $10/bbl collapse in Dated Brent, while Canadian producers face a distinct 'perfect storm' of structural headwinds even at elevated flat prices.
 **Key data:**
-  - CoreWeave bond yield on 2032 debt touched 15%, triggering a 15.46% single-day share price drop
-  - CoreWeave carries ~$52bn in debt and lease obligations
-  - CoreWeave Q2 interest expense: $640mn (up from $267mn a year prior); net loss $626mn
-  - CoreWeave has $103.7bn in remaining performance obligations (RPOs), 41% due through 2028
-  - CoreWeave raised >$35bn in 2026 across chip-backed loans, HY bonds, converts, and share sales
-  - CoreWeave free cash flow consensus: approx. -$25bn in 2026, -$28bn in 2027
-  - OpenAI revenue ~$20bn short of 2026 expectations, creating a ~$600bn annual gap between AI infrastructure spend and actual sales
-  - Hyperscalers (Alphabet, Amazon, Meta, Microsoft, Oracle) projected to invest $4.2 trillion through 2029
-  - Amazon, Google, Meta, Microsoft, Oracle issued $121bn in bonds in 2025, ~4x their 2020-2024 annual average
-  - Gartner forecast: >80% of independent neocloud operators will cease operating standalone by 2030
-  - D.A. Davidson analyst Gil Luria said CoreWeave equity could go to zero if AI spending turns; previously called it the 'subprime layer' of AI
-  - CoreWeave co-founders sold ~$3.3bn in shares since IPO; paper wealth shrunk ~$15bn from peak
-  - Jefferies' Chris Wood cited 'massive capital destruction' in AI (referenced in article topics)
-**Names/tickers:** Michael Batnick, Josh Brown (Downtown Josh Brown), Steve Eisman, CoreWeave (CRWV), OpenAI, VanEck (RAAX), Janus Henderson, Jefferies, Chris Wood (Jefferies), Chamath Palihapitiya, Brannin McBee (CoreWeave co-founder), Gil Luria (D.A. Davidson), Blackstone, MUFG, Nippon Life, Nvidia (NVDA), Nebius, Oracle, Dell, Applied Digital, IREN
-**Differentiation vs consensus:** The recession-via-AI-capex-reversal thesis is increasingly mainstream — CNBC, Vanderbilt academic papers, and multiple sell-side voices (D.A. Davidson, Jefferies) are already framing it this way. The more differentiated thread surfaced in the article's topic list is the specific mechanism: CoreWeave's pivot to insurance capital ('unlimited' insurer money) as the marginal funder of AI build-out, drawing an explicit 2008 parallel via the private credit/shadow banking conduit. This is genuinely non-consensus in its specificity — most coverage focuses on hyperscaler equity and capex cuts, not the insurance liability-matching channel being tapped for GPU-collateralised debt. Steve Eisman's involvement (the original subprime short) adds rhetorical weight to the 2008 framing. However, since this is a podcast episode summary with limited original analysis visible in the article text, the depth of differentiation in the actual audio content cannot be verified. Differentiation confidence is therefore medium.
+  - Brent rose ~$5/bbl on the week to finish around $110, briefly breaching that level for the first time since May
+  - Middle distillate crack spreads ~$100/bbl despite White House intervention ahead of midterms
+  - Gasoline cracks down steadily through October but still more than double seasonal levels
+  - Dated Brent fell ~$10/bbl even as futures backwardation re-strengthened — flagged as a key divergence
+  - Hurricane-driven large draw in US inventories (bullish)
+  - ARA European and Singaporean product stocks built from still-depressed levels
+  - Speculator net long at high end of recent experience as share of total open interest across six largest crude contracts
+  - Ukraine struck two additional Russian refineries in the 24 hours prior to publication
+  - Strongest pace of Hormuz shipping attacks on record depressing oil flows
+**Names/tickers:** Rory Johnston, Javier Blas, Bloomberg Opinion, Drop Site News, Ryan Grim, Mario Nawfal, OPEC
+**Differentiation vs consensus:** The mainstream narrative (Bloomberg, Reuters, CNBC) frames the $110 Brent move purely as a geopolitical risk-premium story driven by Hormuz attacks, Houthi strikes and Russia refinery hits. Johnston's differentiated contribution is the warning to NOT read the backwardation re-strengthening as genuine physical tightness, citing the contemporaneous $10/bbl crash in Dated Brent as a contradictory signal — this nuance is absent from mainstream coverage. The Canadian crude 'perfect storm' angle (exploding shipping rates + weak USGC fuel oil markets preventing Canadian producers from capturing the price spike) is also non-consensus and not surfaced in major sell-side or media outlets. The framing of OPEC reconsidering its future strategy in light of current events (via the Javier Blas conversation) is potentially differentiated but not elaborated in the visible article text. Differentiation confidence is moderate because the paywalled PDF deck and full report body are not accessible.
 **Differentiation confidence:** Med
-**Relevance:** Med — Directly relevant to AI applications in finance, market structure, and banks/financials (insurance/private credit channel into AI debt); not UK/European-focused, and the podcast format limits analytical depth vs. a research note.
-→ Worth reading in full if you are actively tracking the AI private credit / insurance capital risk channel or sizing positions in AI infrastructure names (CRWV, NVDA-adjacent); skip unless you want the podcast discussion — the CoreWeave bond stress and insurance capital angle is the signal, but it is better sourced directly from the FT interview with McBee or D.A. Davidson's research.
+**Relevance:** Low — The article is a commodity oil market weekly — crude prices, Middle East geopolitics, tanker flows, and Canadian differentials — with no coverage of UK mid-caps, European equities, banks, AI in finance, semis, or market structure topics that sit within the user's stated coverage lens.
+→ Skip unless the fund has direct oil, energy equities, or macro crude exposure; the Dated Brent vs. futures backwardation divergence flag and Canadian differential angle are the only genuinely differentiated signals worth extracting even then.
 
 ## Errors
 
