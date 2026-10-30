@@ -1,26 +1,52 @@
-# 📚 Your reading list — 1 new post (last 24h)
+# 📚 Your reading list — 3 new posts (last 24h)
 
-Generated: 2026-10-29T13:51:17Z
+Generated: 2026-10-30T13:43:30Z
 
-## Commodity Context
+## A Wealth of Common Sense
 
-- ***Rory Johnston*** — Global Oil Data Deck (October 2026) (2026-10-28)
-  https://www.commoditycontext.com/p/global-oil-data-deck-october-2026
+- ***Ben Carlson*** — Is Buying a House Now a Bad Investment? (2026-10-29)
+  https://awealthofcommonsense.com/2026/10/is-buying-a-house-now-a-bad-investment/
 
-**Thesis:** Global oil balances have tightened materially since March 2026, with a cumulative ~500 million barrel supply deficit eroding the prior inventory overhang and underpinning Brent at ~$115/bbl, a level the author argues is fundamentally justified rather than purely geopolitical-premium-driven; a methodological revision to Chinese demand estimates deepens the assessed deficit further.
+**Thesis:** A primary residence should be framed as consumption rather than investment, making the comparison to stocks or bonds a category error; the housing-vs-portfolio debate is moot because you have to live somewhere regardless of market conditions.
 **Key data:**
-  - Cumulative supply deficit of ~500 million barrels from March to August 2026
-  - Brent currently trading around $115/bbl at time of writing
-  - Post-MOU pullback in global supplies contributed to tightening
-  - Chinese petroleum product demand estimates revised materially higher in this edition
-  - EIA October 2026 STEO forecasts Brent averaging $105/bbl in Q4 2026
-  - UBS raised end-2026 Brent target to $110/bbl on October 28
-  - Strait of Hormuz flows at ~82% of pre-war levels as of October 18 (per Kpler)
-**Names/tickers:** Rory Johnston, Commodity Context, The Beijing Swing (referenced report)
-**Differentiation vs consensus:** The article's most differentiated element is the upward revision to Chinese petroleum product demand using an end-use activity methodology (mobility, construction, etc.) rather than standard official data — this deepens the global supply deficit estimate beyond what mainstream agency models (EIA, IEA) currently show. Consensus (EIA STEO at $105, UBS at $110) acknowledges tightness but frames it primarily as a geopolitical risk premium on top of softer fundamentals; Johnston's framework instead argues the deficit is structural enough to justify $115+ on supply-demand grounds even as Hormuz flows partially recover. The 500 million barrel cumulative deficit figure since March is a specific proprietary estimate not widely cited in sell-side or agency coverage. Differentiation is moderate rather than high because the broader tightening narrative is well-covered — the unique value is in the China demand revision methodology and the deficit quantification, which are paywalled and cannot be fully assessed.
-**Differentiation confidence:** Med
-**Relevance:** Low — The article is an oil commodities data deck focused on global crude balances and the Iran War supply disruption — entirely outside the user's stated coverage areas of UK mid-caps, European/US equities, AI in finance, banks, market structure, alternative data, and semis/compute.
-→ Skip unless the fund has direct energy commodity exposure or is assessing oil-price macro pass-through to covered sectors; the China demand revision methodology may be of niche interest as an alternative data approach, but the core content is not relevant to the stated investment focus.
+  - Average monthly mortgage payments have more than doubled from end of 2010s
+  - Home prices shot up more than 50% in the 2020s
+  - Mortgage rates more than doubled in the 2020s
+  - Home insurance is up almost 50%
+  - 2025 and 2026 appear to be the second consecutive year of national home price growth below the inflation rate (per Case-Shiller)
+  - Mortgage rates currently above 7%
+  - Author's baseline forecast: housing keeps pace with inflation going forward
+**Names/tickers:** Ben Carlson, Josh (Ask the Compound co-host), Case-Shiller National Home Price Index
+**Differentiation vs consensus:** The article's core reframe — housing as consumption, not investment, and therefore an invalid S&P 500 comparator — is philosophically coherent but not remotely non-consensus. This framing is ubiquitous in mainstream personal finance media and echoed explicitly in J.P. Morgan, NAR, and Yahoo Finance coverage. The demographic observation about baby boomer estate supply coming in the 2030s adding to inventory is slightly underemphasised in consensus but not novel. There is no proprietary data, no unique analytical framework, and no contrarian conclusion relative to mainstream sell-side or financial media. The article explicitly sets aside quantitative rigour despite the reader requesting it. Differentiation confidence is Low.
+**Differentiation confidence:** Low
+**Relevance:** Low — This is a generic US retail personal finance piece about primary-residence buying decisions — entirely outside the user's stated coverage of UK mid-caps, European equities, banks, AI in finance, semis, market structure, and alternative data.
+→ Skip unless — you have no reason to read this; it is a consumer personal finance blog post with no institutional, market-structure, or sector-specific content relevant to a hedge fund analyst's coverage.
+
+## The Irrelevant Investor (Beehiiv RSS)
+
+- ***Michael Batnick*** — The Compound and Friends: The Bulls Are Trapped (2026-10-30)
+  https://www.theirrelevantinvestor.com/p/the-compound-and-friends-the-bulls-are-trapped
+
+**Thesis:** No substantive thesis is present. The article is a promotional podcast episode listing (The Compound and Friends) with sponsor acknowledgements and social media links — no analytical argument is made.
+**Names/tickers:** Michael Batnick, Josh Brown, Alexander Altmann, Grayscale, Janus Henderson
+**Differentiation vs consensus:** There is no analytical content to evaluate for differentiation. The article body consists entirely of sponsor copy, podcast metadata, and social links. The episode title 'The Bulls Are Trapped' may imply a bearish or contrarian market take, but no argument, data, or evidence is presented in the text provided.
+**Differentiation confidence:** Low
+**Relevance:** Low — The article contains no substantive content relevant to the user's interests in UK mid-caps, European equities, banks, AI in finance, semis, or market structure — it is purely a podcast promotional post.
+→ Skip unless you are a regular listener of The Compound and Friends and want to queue the episode; there is no written analytical content to assess here.
+
+## Statecraft
+
+- ***Santi Ruiz*** — How to Give Money + Should You Quit Your Job? (2026-10-30)
+  https://www.statecraft.pub/p/how-to-give-money-should-you-quit
+
+**Thesis:** AI will generate a large new wave of philanthropic capital, and the challenge is building institutions capable of making iterative, adaptive decisions to deploy it well — drawing on von Neumann's framework of 'a long sequence of small, correct decisions.'
+**Key data:**
+  - $30–$40 billion per year of new philanthropic capital potentially unlocked from new wealth creation and preexisting donation commitments
+**Names/tickers:** Caleb Watney, Coefficient Giving, Leah Sargeant, IFP (Institute for Progress), Nan Ransohoff, SpaceX, Tao Burga, John von Neumann, Rockefellers, Carnegies, Gates Foundation, Santi Ruiz, Statecraft
+**Differentiation vs consensus:** This is a podcast/interview transcript focused on philanthropy, AI governance philosophy, and DC policy effectiveness. It contains no financial analysis, no market data, no equity research, and no trading-relevant insight. There is nothing contrarian or consensus-defying relative to financial markets because the piece is not engaged with financial markets at all. Differentiation assessment is not applicable.
+**Differentiation confidence:** Low
+**Relevance:** Low — The article is a policy/philanthropy podcast transcript with no coverage of UK mid-caps, European equities, banks, market structure, alternative data, semis, or any other topic in the user's stated interests.
+→ Skip unless you have a personal interest in AI governance philosophy, DC policy, or effective altruism-adjacent philanthropy — there is zero investment-relevant signal here.
 
 ## Errors
 
